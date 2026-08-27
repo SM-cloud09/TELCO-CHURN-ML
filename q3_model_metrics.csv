@@ -1,0 +1,3 @@
+Model,Accuracy,Precision,Recall ★,F1-Score,ROC-AUC,Avg Precision
+Logistic Regression (Q3),0.5813,0.317,0.6239,0.4204,0.6363,0.3553
+MLP + Threshold (0.27),0.6331,0.3505,0.5948,0.4411,0.6488,0.3515
